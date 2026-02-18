@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://doverplumbingsquad.com/sitemap.xml
